@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ## 
 # This function creates special vector that contain list of following functions:
